@@ -1,0 +1,312 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "#",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "#", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"Gorilla Tag Wallpaper",
+      "image":"#",
+      "link":"https://play.google.com/store/apps/dev?id=4945085497816997134"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "Gorilla Tag Wallpaper",
+      "image": "https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/001.webp"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/001.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/002.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/003.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/004.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/005.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/006.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/007.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/008.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/009.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/010.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/011.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/012.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/013.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/014.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/015.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/016.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/017.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/018.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/019.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/020.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/021.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/022.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/023.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/024.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/025.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/026.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/027.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/028.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/029.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/030.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/031.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/032.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/033.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/034.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/035.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/036.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/037.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/038.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/039.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "Gorilla Tag Wallpaper",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/pariem/gorillatagwallpaper/main/040.webp",
+      "coin":1000
+    }
+  ]
+}
